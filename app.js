@@ -47,7 +47,6 @@ function generatePictures(data){
         `;
         gallery.appendChild(galleryImg);
     }); 
-    console.log(data);
 }
 
 // "https://api.pexels.com/v1/curated?per_page=1"
